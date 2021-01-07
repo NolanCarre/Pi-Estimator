@@ -2,7 +2,7 @@
 Ce projet consiste à estimer Pi par le biais de Spark et Numpy et comparer leur temps d'exécution et leur écart à Pi (valeur machine).
 
 # Exécution du programme à partir d'un terminal
-  Ouvrir un terminal et tapper les lignes suivantes :
+  Ouvrir un terminal et taper les lignes suivantes :
  - git clone https://github.com/NolanCarre/Pi-Estimator.git 
  - cd Pi-Estimator 
  - python Script/pi_estimator.py 
