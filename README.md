@@ -9,7 +9,7 @@ Ce projet consiste à estimer Pi par le biais de Spark et Numpy et comparer leur
  
  Ou taper : sh main.sh (Moins lisible).
  
- NB : Le nombre de points est modifiable dans à la ligne 23 du script pi-estimator.py .
+ NB : Le nombre de points est modifiable à la ligne 23 du script pi-estimator.py .
  
 # Estimation de Pi
 ## Sortie obtenue
