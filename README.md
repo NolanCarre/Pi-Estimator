@@ -16,6 +16,6 @@ En revanche, avec n = 1 000 000 la méthode utilisant Spark sera plus précise.
 
 Dans les deux cas, Numpy permet d'obtenir une vitesse d'exécution plus élevée.
 
-#Remarques
+# Remarques
 Le choix entre Numpy et Spark doit se faire en fonction des besoins. En particulier, si le nombre de données est élevé il est préférable d'utiliser Spark afin d'accroître la précision. Mais le temps d'exécution sera plus élevé.
 
