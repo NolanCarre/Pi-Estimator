@@ -1,2 +1,6 @@
-# Pi-Estimator
-Ce projet consiste à estimer Pi par le biais de Spark et Numpy et comparer leur temps d'execution et leur écart à Pi (valeur machine).
+## Pi-Estimator
+Ce projet consiste à estimer Pi par le biais de Spark et Numpy et comparer leur temps d'exécution et leur écart à Pi (valeur machine).
+
+## Estimation de Pi 
+# Avec 100000 points
+<img src="Output/tab_res_100000.png">
